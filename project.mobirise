@@ -54,10 +54,10 @@
           "_name": "header3",
           "_anchor": "header3-6",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#fff",
-            "showMeta": true
+            "showMeta": false
           },
           "title": "&lt;K R I S T O F &nbsp; K O H A L M Y &nbsp; P H O T O&gt;",
           "meta": ""
@@ -158,7 +158,7 @@
             "filter": false,
             "bgColor": "#ffffff",
             "filterBgColor": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery3-8",
@@ -177,13 +177,18 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Kohalmy Kristof"
+          "text": "Copyright (c) 2017 Kohalmy Kristof",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     }
