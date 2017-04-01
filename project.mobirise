@@ -156,7 +156,7 @@
             "spacing": "0",
             "showText": false,
             "filter": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": true
