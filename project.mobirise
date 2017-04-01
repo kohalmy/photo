@@ -156,9 +156,9 @@
             "spacing": "0",
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "filterBgColor": true,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
           "_anchor": "gallery3-8",
